@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: refSelfStudy.bib
+Warning--entry type for "transfer2021" isn't style-file defined
+--line 20 of file refSelfStudy.bib
+Warning--entry type for "scipy2021" isn't style-file defined
+--line 30 of file refSelfStudy.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No journal in lechner2021_da2
+Warning--No journal in lechner2021
+Warning--No journal in rennie2005
+You've used 12 entries,
+            6951 wiz_defined-function locations,
+            1329 strings with 12218 characters,
+and the built_in function-call counts, 20510 in all, are:
+= -- 2641
+> -- 155
+< -- 908
++ -- 869
+- -- 29
+* -- 1242
+:= -- 3652
+add.period$ -- 48
+call.type$ -- 12
+change.case$ -- 222
+chr.to.int$ -- 0
+cite$ -- 27
+duplicate$ -- 468
+empty$ -- 845
+format.name$ -- 244
+if$ -- 4044
+int.to.chr$ -- 0
+int.to.str$ -- 40
+missing$ -- 0
+newline$ -- 291
+num.names$ -- 96
+pop$ -- 346
+preamble$ -- 1
+purify$ -- 50
+quote$ -- 0
+skip$ -- 1495
+stack$ -- 0
+substring$ -- 945
+swap$ -- 276
+text.length$ -- 28
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 1104
+warning$ -- 3
+while$ -- 84
+width$ -- 0
+write$ -- 344
+(There were 5 warnings)

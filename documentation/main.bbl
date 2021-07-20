@@ -1,0 +1,312 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Bartus%
+}{%
+Bartus%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+bartus2005}
+\APACinsertmetastar {%
+bartus2005}%
+\begin{APACrefauthors}%
+Bartus, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Estimation of Marginal Effects using Margeff}
+  {Estimation of marginal effects using margeff}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Stata Journal}{5}{3}{309-329}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1177/1536867X0500500303}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1177/1536867X0500500303} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cameron%
+\ \BBA {} Trivedi%
+}{%
+Cameron%
+\ \BBA {} Trivedi%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+cameron}
+\APACinsertmetastar {%
+cameron}%
+\begin{APACrefauthors}%
+Cameron, A.%
+\BCBT {}\ \BBA {} Trivedi, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Microeconometrics: Methods and Applications}
+  {Microeconometrics: Methods and applications}.
+\newblock
+\begin{APACrefDOI} \doi{10.1017/CBO9780511811241} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chong%
+\ \BBA {} Zak%
+}{%
+Chong%
+\ \BBA {} Zak%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+chong2013}
+\APACinsertmetastar {%
+chong2013}%
+\begin{APACrefauthors}%
+Chong, E\BPBI K\BPBI P.%
+\BCBT {}\ \BBA {} Zak, S\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {An Introduction to Optimization} {An introduction to
+  optimization}\ (\PrintOrdinal{2}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Wiley}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Harrell~Jr%
+}{%
+Harrell~Jr%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+regrmodels}
+\APACinsertmetastar {%
+regrmodels}%
+\begin{APACrefauthors}%
+Harrell~Jr, F\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2015}.
+\newblock
+\APACrefbtitle {Regression modeling strategies: with applications to linear
+  models, logistic and ordinal regression, and survival analysis} {Regression
+  modeling strategies: with applications to linear models, logistic and ordinal
+  regression, and survival analysis}.
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hastie%
+, Tibshirani%
+\BCBL {}\ \BBA {} Friedman%
+}{%
+Hastie%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+hastie2009}
+\APACinsertmetastar {%
+hastie2009}%
+\begin{APACrefauthors}%
+Hastie, T.%
+, Tibshirani, R.%
+\BCBL {}\ \BBA {} Friedman, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2009}.
+\newblock
+\APACrefbtitle {The Elements of Statistical Learning: Data Mining, Inference,
+  and Prediction} {The elements of statistical learning: Data mining,
+  inference, and prediction}\ (\PrintOrdinal{2}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Springer, New York, NY}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lechner%
+}{%
+Lechner%
+}{%
+{\protect \APACyear {2021}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+lechner2021_da2}
+\APACinsertmetastar {%
+lechner2021_da2}%
+\begin{APACrefauthors}%
+Lechner, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Data Analytics 2, Lecture 2} {Data analytics 2, lecture
+  2}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lechner%
+}{%
+Lechner%
+}{%
+{\protect \APACyear {2021}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+lechner2021}
+\APACinsertmetastar {%
+lechner2021}%
+\begin{APACrefauthors}%
+Lechner, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Microeconometrics, Lecture 2 and 3: Discrete Choice}
+  {Microeconometrics, lecture 2 and 3: Discrete choice}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lechner%
+\ \BBA {} Okasa%
+}{%
+Lechner%
+\ \BBA {} Okasa%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+lechner2019random}
+\APACinsertmetastar {%
+lechner2019random}%
+\begin{APACrefauthors}%
+Lechner, M.%
+\BCBT {}\ \BBA {} Okasa, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Random Forest Estimation of the Ordered Choice Model}
+  {Random forest estimation of the ordered choice model}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1907.02436}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+M{\"u}ller%
+, Simons%
+\BCBL {}\ \BBA {} Weinmann%
+}{%
+M{\"u}ller%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+muller2017}
+\APACinsertmetastar {%
+muller2017}%
+\begin{APACrefauthors}%
+M{\"u}ller, O.%
+, Simons, A.%
+\BCBL {}\ \BBA {} Weinmann, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Beyond crowd judgments: Data-driven estimation of market
+  value in association football} {Beyond crowd judgments: Data-driven
+  estimation of market value in association football}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{European Journal of Operational
+  Research}{263}{2}{611-624}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rennie%
+\ \BBA {} Srebro%
+}{%
+Rennie%
+\ \BBA {} Srebro%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+rennie2005}
+\APACinsertmetastar {%
+rennie2005}%
+\begin{APACrefauthors}%
+Rennie, J.%
+\BCBT {}\ \BBA {} Srebro, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Loss functions for preference levels: Regression with
+  discrete ordered labels} {Loss functions for preference levels: Regression
+  with discrete ordered labels}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Scipy developers}%
+}{%
+{Scipy developers}%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+scipy2021}
+\APACinsertmetastar {%
+scipy2021}%
+\begin{APACrefauthors}%
+{Scipy developers}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {Numpy and Scipy Documentation.} {Numpy and scipy
+  documentation.}
+\newblock
+\begin{APACrefURL} [{22.05.2021}]\url{https://docs.scipy.org/doc/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Transfermarkt%
+}{%
+Transfermarkt%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+transfer2021}
+\APACinsertmetastar {%
+transfer2021}%
+\begin{APACrefauthors}%
+Transfermarkt.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {Transfer Records.} {Transfer records.}
+\newblock
+\begin{APACrefURL}
+  [{18.05.2021}]\url{\\https://www.transfermarkt.com/statistik/transferrekorde}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

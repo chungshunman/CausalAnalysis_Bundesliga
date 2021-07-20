@@ -1,0 +1,25 @@
+0. pull
+  - downloads changes from server
+  - example:
+      git pull
+
+1. add
+  - tells git to track a file
+  - example:
+      git add <filename>
+
+2. commit
+  - makes an incremental version with the added files
+  - example:
+      git commit -m "<change description>"
+  - the change description should be no more than 50 chars
+  
+3. push
+  - synchronizes committed changes with the server
+  - example (first time):
+      git push -u origin main
+  - example (every other time):
+      git push
+
+remarks:
+  - vim can be closed by typing :wq
